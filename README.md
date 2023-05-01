@@ -1,0 +1,1 @@
+# terraform-azure-asp.netcore6-web
